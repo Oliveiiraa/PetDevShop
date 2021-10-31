@@ -1,7 +1,16 @@
 # PetDevShop
+<p align="center">
+  <img src=".github/petdevshop.png" alt="PetDevShop" />
+</p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/languages-1-blue">
+  <b>Página de listagem de animais.</b>
+</p>
+
+<br />
+
+<p align="center">
+    <img src="https://img.shields.io/badge/languages-2-blue">
 </p>
 
 ## Conteúdo
